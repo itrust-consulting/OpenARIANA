@@ -16,7 +16,7 @@ itrust maintains a repository of ISMS standards like ISO 2700x in a structured f
 
 #### Installation
 
-1. Download the installer from [here](https://github.com/itrust-consulting/OpenARIANA/releases/download/0.1.0/OpenARIANA.msi).
+1. Download the installer from [here](https://github.com/itrust-consulting/OpenARIANA/releases/tag/0.1.0).
 2. Run the installer with Administrator privileges.
 3. Launch Microsoft Word. OpenARIANA will be available in the Ribbon menu.
 
