@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OpenARIANA.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LogDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OpenARIANA\Logs</Value>
+    </Setting>
+    <Setting Name="VerbosityLevel" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="TagPattern" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#\w+(\-\w+)*</Value>
+    </Setting>
+    <Setting Name="TagSearchMode" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="StyleMappingDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OpenARIANA\StyleMappings</Value>
+    </Setting>
+    <Setting Name="ProfileDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OpenARIANA\Profiles</Value>
+    </Setting>
+    <Setting Name="CustomProfileDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
